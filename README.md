@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+firststep
+=========
+
+My First step on Ruby on Rails world - This repository will have all sample code I am going to practice.
+=======
 == Welcome to Rails
 
 
@@ -269,3 +275,4 @@ vendor
   External libraries that the application depends on. Also includes the plugins
   subdirectory. If the app has frozen rails, those gems also go here, under
   vendor/rails/. This directory is in the load path.
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c

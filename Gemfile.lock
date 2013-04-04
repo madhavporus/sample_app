@@ -29,6 +29,9 @@ GEM
       i18n (= 0.6.1)
       multi_json (~> 1.0)
     arel (3.0.2)
+<<<<<<< HEAD
+    builder (3.0.4)
+=======
     bcrypt-ruby (3.0.1-x86-mingw32)
     bootstrap-sass (2.1.0.0)
     bootstrap-will_paginate (0.0.6)
@@ -43,6 +46,7 @@ GEM
       xpath (~> 0.1.4)
     childprocess (0.3.9)
       ffi (~> 1.0, >= 1.0.11)
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c
     coffee-rails (3.2.1)
       coffee-script (>= 2.2.0)
       railties (~> 3.2.0.beta)
@@ -50,6 +54,11 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.6.2)
+<<<<<<< HEAD
+    erubis (2.7.0)
+    execjs (1.4.0)
+      multi_json (~> 1.0)
+=======
     cucumber (1.2.3)
       builder (>= 2.1.2)
       diff-lcs (>= 1.1.3)
@@ -74,6 +83,7 @@ GEM
     ffi (1.6.0-x86-mingw32)
     gherkin (2.11.6-x86-mingw32)
       json (>= 1.7.6)
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c
     hike (1.2.1)
     i18n (0.6.1)
     journey (1.0.4)
@@ -87,7 +97,14 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.22)
     multi_json (1.7.2)
+<<<<<<< HEAD
+=======
     nokogiri (1.5.9-x86-mingw32)
+<<<<<<< HEAD
+=======
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c
+    pg (0.12.2-x86-mingw32)
+>>>>>>> 14e75a6814bf57ffc469c5e6f2a853a8175d5dfe
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -114,6 +131,8 @@ GEM
     rake (10.0.4)
     rdoc (3.12.2)
       json (~> 1.4)
+<<<<<<< HEAD
+=======
     rspec (2.11.0)
       rspec-core (~> 2.11.0)
       rspec-expectations (~> 2.11.0)
@@ -128,16 +147,20 @@ GEM
       railties (>= 3.0)
       rspec (~> 2.11.0)
     rubyzip (0.9.9)
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c
     sass (3.2.7)
     sass-rails (3.2.3)
       railties (~> 3.2.0.beta)
       sass (>= 3.1.10)
       tilt (~> 1.3)
+<<<<<<< HEAD
+=======
     selenium-webdriver (2.31.0)
       childprocess (>= 0.2.5)
       multi_json (~> 1.0)
       rubyzip
       websocket (~> 1.0.4)
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c
     sprockets (2.2.2)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -153,15 +176,27 @@ GEM
     uglifier (1.0.3)
       execjs (>= 0.3.0)
       multi_json (>= 1.0.2)
+<<<<<<< HEAD
+=======
     websocket (1.0.7)
     will_paginate (3.0.3)
     xpath (0.1.4)
       nokogiri (~> 1.3)
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c
 
 PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
+<<<<<<< HEAD
+  coffee-rails (= 3.2.1)
+  jquery-rails (= 2.0.2)
+  pg (= 0.12.2)
+  rails (= 3.2.13)
+  sass-rails (= 3.2.3)
+  sqlite3 (= 1.3.5)
+  uglifier (= 1.0.3)
+=======
   bcrypt-ruby (= 3.0.1)
   bootstrap-sass (= 2.1)
   bootstrap-will_paginate (= 0.0.6)
@@ -179,3 +214,4 @@ DEPENDENCIES
   sqlite3 (= 1.3.5)
   uglifier (= 1.0.3)
   will_paginate (= 3.0.3)
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c
