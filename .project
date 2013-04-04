@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>demo_app</name>
+=======
+	<name>sample_app</name>
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>com.aptana.ide.core.unifiedBuilder</name>
 			<arguments>
@@ -15,5 +20,12 @@
 		<nature>org.radrails.rails.core.railsnature</nature>
 		<nature>com.aptana.ruby.core.rubynature</nature>
 		<nature>com.aptana.projects.webnature</nature>
+=======
+	</buildSpec>
+	<natures>
+		<nature>com.aptana.projects.webnature</nature>
+		<nature>org.radrails.rails.core.railsnature</nature>
+		<nature>com.aptana.ruby.core.rubynature</nature>
+>>>>>>> 914007550aadd5c34670a47664b5132e567f743c
 	</natures>
 </projectDescription>
